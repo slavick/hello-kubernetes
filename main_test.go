@@ -13,7 +13,7 @@ func TestGreet(t *testing.T) {
 	}{
 		{
 			arg:  "Brian",
-			want: "Hello Brian!",
+			want: "Hello John!",
 		}, {
 			arg:  "Mary",
 			want: "Hello Mary!",
